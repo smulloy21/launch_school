@@ -39,7 +39,6 @@ def get_loan_amount():
     return int(valid_loan_amount)
 
 
-
 def get_monthly_interest():
     """
     Get APR, convert to monthly interest
