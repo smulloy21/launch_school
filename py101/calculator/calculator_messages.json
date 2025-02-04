@@ -1,0 +1,12 @@
+{   
+    "en": {
+        "welcome_prompt": "Welcome to Calculator!",
+        "number1_prompt": "What's the first number?",
+        "number2_prompt": "What's the second number?",
+        "invalid_number_prompt": "Hmm... that doesn't look like a valid number.",
+        "operation_prompt": "What operation would you like to perform?\n1) Add 2) Subtract 3) Multiply 4) Divide",
+        "invalid_operation_prompt": "You must choose 1, 2, 3, or 4",
+        "result_prompt": "The result is {output}",
+        "repeat_prompt": "Would you like to perform another operation? (y/n) "
+    }
+}
