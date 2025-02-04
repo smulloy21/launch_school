@@ -4,7 +4,7 @@
         "loan_amount": "What is the loan amount?",
         "apr": "What is the Annual Percentage Rate?",
         "duration": "What is the loan duration, in years?",
-        "result": "Your monthly payment will be ${monthly_payment:,.2f}.",
+        "result": "Your monthly payment will be ${monthly_payment:,.2f}",
         "invalid_loan_amount": "Please enter a valid integer loan amount.",
         "invalid_apr": "Please enter a valid Annual Percentage Rate.",
         "invalid_duration": "Please enter a valid duration in years."
