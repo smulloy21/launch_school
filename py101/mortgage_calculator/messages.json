@@ -7,6 +7,8 @@
         "result": "Your monthly payment will be ${monthly_payment:,.2f}",
         "invalid_loan_amount": "Please enter a valid integer loan amount.",
         "invalid_apr": "Please enter a valid Annual Percentage Rate.",
-        "invalid_duration": "Please enter a valid duration in years."
+        "invalid_duration": "Please enter a valid duration in years.",
+        "continue": "Would you like to calculate again? (y/n)",
+        "invalid": "That's not a valid choice."
     }
 }
