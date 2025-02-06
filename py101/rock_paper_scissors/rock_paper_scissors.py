@@ -55,7 +55,6 @@ def get_user_choice():
         prompt(f'{abbr} for {choice}')
     choice = VALID_CHOICES.get(input())
 
-
     while choice is None:
         prompt("That's not a valid choice")
         choice = VALID_CHOICES.get(input())
