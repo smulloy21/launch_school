@@ -9,3 +9,6 @@ def append_to_list(value, lst=None):
 
 print(append_to_list(1) == [1])
 print(append_to_list(2) == [2])
+
+# In Python, default mutable arguments are shared between function
+# calls.
